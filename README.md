@@ -1,5 +1,7 @@
 # agents-labs-demo
 
+![agents-labs-demo](assets/image.png)
+
 A demo repository for experimenting with agent-based workflows.
 
 ## Overview
