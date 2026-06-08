@@ -29,3 +29,4 @@ agents-labs-demo/
 
 - Prefer small, focused changes that match the surrounding style.
 - Document new experiments in the README so the repo stays self-explanatory.
+- Keep this CLAUDE.md up to date as the repository evolves.
